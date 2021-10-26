@@ -4,7 +4,7 @@ This is a deep classifier based on the CelebA High Quality Facial Attribute Data
 
 ![alt text](https://github.com/plehman2000/FacialAttributeCLassifier/blob/main/_assets/overview.png?raw=true)
 
-
+## Examples of Inference on Out-Of-Training Data:
 ![alt text](https://github.com/plehman2000/FacialAttributeCLassifier/blob/main/_assets/im1.png?raw=true)
 ![alt text](https://github.com/plehman2000/FacialAttributeCLassifier/blob/main/_assets/im2.png?raw=true)
 ![alt text](https://github.com/plehman2000/FacialAttributeCLassifier/blob/main/_assets/im3.png?raw=true)
